@@ -1,0 +1,16 @@
+name: ConfigDebugger
+version: '1.0'
+main: BasisZock.github.io.configDebugger.ConfigDebugger
+api-version: '1.21'
+permissions:
+  debugconfig.run:
+    description: "Allows the player to run debugconfig"
+    default: op
+commands:
+  debugconfig:
+    description: "Debug all the configs for syntax errors"
+    aliases:
+      - dec
+    usage: /debugconfigy
+    permission: debugconfig.run
+
