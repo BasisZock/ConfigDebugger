@@ -17,5 +17,9 @@ Run the following command in the server console or as a player with the necessar
 /debugconfig
 **Aliases:** `/dec`
 
+## Permissions
+configdebug.run allows the player to run the command.
+Default: op
+
 ## License
 This project is licensed under the **GPL-3.0-only**.
