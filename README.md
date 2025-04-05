@@ -1,6 +1,6 @@
 # ConfigDebugger
 
-ConfigDebugger is a lightweight Bukkit/Spigot plugin that scans all YAML configuration files in the `plugins` directory and checks for syntax errors.
+ConfigDebugger is a lightweight Paper/Spigot plugin that scans all YAML configuration files in the `plugins` directory and checks for syntax errors.
 
 ## Features
 - Recursively scans all `.yml` files in the `plugins` folder.
